@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/patrickmahloy/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I studied classical guitar performance at VCU
--->
+
