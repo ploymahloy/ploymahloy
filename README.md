@@ -1,7 +1,5 @@
 ### Here's what I'm working on 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Server apps
 - 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... React, Angular
