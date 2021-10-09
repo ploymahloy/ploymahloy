@@ -1,6 +1,6 @@
 ### Here's what I'm working on 👋
 
-- 🔭 I’m currently working on ... To-Do List in Typescript, eCommerce site
+- 🔭 I’m currently working on ... To-Do List in Typescript
 - 🌱 I’m currently learning ... Typescript, SASS
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... My first web dev role!
