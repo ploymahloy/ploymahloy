@@ -1,6 +1,6 @@
 ### Here's what I'm working on 👋
 
-- 🔭 I’m currently working on ... Codewars problems, Mortgage Calculator in React Typescript 
+- 🔭 I’m currently working on ... Codewars problems, React and Typescript 
 - 🌱 I’m currently learning ... Typescript (React)
 - 👯 I’m looking to collaborate on ... React
 - 💬 Ask me about ... Music, how to be an outgoing introvert, good celiac-sensitive spots in Richmond
