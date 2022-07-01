@@ -4,6 +4,4 @@
 - 🌱 I’m currently learning ... React/Typescript
 - 👯 I’m looking to collaborate on ... React
 - 💬 Ask me about ... Music, how to be an outgoing introvert, good celiac-sensitive spots in Richmond
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/patrickmahloy/)
-- ⚡ Fun fact: ... I studied classical guitar performance at VCU
-
+- 📫 How to reach me: ... [Email](patrick.mahloy@gmail.com
