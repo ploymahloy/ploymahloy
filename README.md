@@ -1,7 +1,9 @@
-### Here's what I'm working on 👋
+## Hey, I'm Patrick 👋
 
-- 🔭 I’m currently working on ... Personal site, All Access Clone 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ploymahloy&layout=compact)](https://github.com/ploymahloy/github-readme-stats)
+
+- 🔭 I’m currently working on ... All Access Clone 
 - 🌱 I’m currently learning ... React/Typescript, NextJS
 - 👯 I’m looking to collaborate on ... React, NextJS
 - 💬 Ask me about ... Music, good celiac-sensitive spots in Richmond
-- 📫 How to reach me: ... [Email](patrick.mahloy@gmail.com)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/patrickmahloy/)
