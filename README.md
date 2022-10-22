@@ -5,7 +5,7 @@
 <br />
 [![Profile badge](https://www.codewars.com/users/ploymahloy/badges/large)](https://www.codewars.com/users/ploymahloy/badges/large) 
 
-- 🔭 I’m currently working on ... Job Applications!
+- 🔭 I’m currently working on ... Google Keep Clone
 - 🌱 I’m currently learning ... React/Typescript, NextJS
 - 👯 I’m looking to collaborate on ... React, NextJS
 - 💬 Ask me about ... Music, Richmond's music scene
