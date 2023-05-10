@@ -2,8 +2,8 @@
 
 [![Profile badge](https://www.codewars.com/users/ploymahloy/badges/large)](https://www.codewars.com/users/ploymahloy/badges/large) 
 
-- 🔭 I’m currently working on ... Leveling up my Vue skills to achieve the same comfort in that framework as I have in React
-- 🌱 I’m currently learning ... Rust, outside of work
-- 👯 I’m looking to collaborate on ... Rust (audio plugin development, and audio firmware development)
+- 🔭 I’m currently working on ... my first product! => Global Team Manager
+- 🌱 I’m currently learning ... Backend technologies; namely document-model DBs and serverless
+- 👯 I’m looking to collaborate on ... Rust Audio Plugin development
 - 💬 Ask me about ... Richmond's music scene
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/patrickmahloy/)
