@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on ... my first product! => Async Team Manager
 - 🌱 I’m currently learning ... Backend technologies; namely document-model DBs and serverless
-- 👯 I’m looking to collaborate on ... Rust Audio Plugin development
+- 👯 I’m looking to collaborate on ... Audio Plugin development (C++ or Rust)
 - 💬 Ask me about ... Richmond's music scene
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/patrickmahloy/)
