@@ -1,6 +1,6 @@
 ## Hey, I'm Patrick 👋
 
-[![Profile badge](https://www.codewars.com/users/ploymahloy/badges/large)](https://www.codewars.com/users/ploymahloy/badges/large) 
+![Profile badge](https://www.codewars.com/users/ploymahloy/badges/large)
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ploymahloy?theme=dark&font=Almarai)
 
