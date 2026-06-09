@@ -1,5 +1,7 @@
-## Hello there
-<img width="346" height="145" alt="image" src="https://github.com/user-attachments/assets/d42bba1c-65f7-4bd4-a193-32ec0450a122" />
+## 🙋‍♂️ Hi there, friend
 
-Blog 👉  [patrickmahloy.dev](https://patrickmahloy.dev) \
-Projects 👇
+<img width="563" height="454" alt="Image" src="https://github.com/user-attachments/assets/aafe40f8-6095-49b7-b6d0-03c9cc504900" />
+
+### Humor ☝️
+### Blog 👉  [patrickmahloy.dev/blog](https://patrickmahloy.dev/blog)
+### Projects 👇
