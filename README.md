@@ -1,5 +1,5 @@
 ## Hello there
-<img width="500" height="240" alt="hello-there" src="https://github.com/user-attachments/assets/be0761ca-5569-4883-9be7-0c12956e3188" />
+<img width="346" height="145" alt="image" src="https://github.com/user-attachments/assets/d42bba1c-65f7-4bd4-a193-32ec0450a122" />
 
 Blog 👉  [patrickmahloy.dev](https://patrickmahloy.dev) \
 Projects 👇
